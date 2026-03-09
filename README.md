@@ -54,3 +54,4 @@ Actionable Business Insights -
 The analysis provides practical insights that can help organizations improve customer retention strategies, reduce churn rate, and enhance customer satisfaction.
 
 📷 Dashboard Preview
+Example: [Dashboard Preview] (https://github.com/harshop7/churn_analysis_/blob/main/snapshot%20of%20dashboard.png)
